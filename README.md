@@ -15,7 +15,7 @@ This application is developed just for fun. Images obtained from symbols can be 
 <br/>
 <h2>How to start working with the application?</h2>
 
-1) Download the repository and run application using the file: "ImageToText.exe"<br/>
+1) Download the repository and run application using the file: ImageToText/bin/Debug/net6.0-windows/ImageToText.exe<br/>
     <br/>
 ![ScreenS_2](https://github.com/ZakharovNB/ImageToText/blob/main/ScreenS_2.png?raw=true)<br/>
 
@@ -44,8 +44,7 @@ This application is developed just for fun. Images obtained from symbols can be 
 ⬛️⬛️⬛️⬛️🟥⬛️⬛️🟥⬛️⬛️⬛️⬛️⬛️⬛️🟨⬛️⬛️⬛️⬛️⬛️🟨⬛️⬛️⬛️⬛️⬛️🟪⬛️⬛️🟪⬛️⬛️⬛️⬛️⬛️⬛️⬛️<br/>
 ⬛️⬛️⬛️⬛️⬛️🟥🟥⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️🟨🟨🟨🟨🟨⬛️⬛️⬛️⬛️⬛️⬛️🟪⬛️⬛️🟪⬛️⬛️⬛️⬛️⬛️⬛️⬛️<br/>
 ⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️⬛️<br/>
-<br/>
-I plan to improve the application in the future. It will be able to work with color images and produce text with more color variation.
+
 
 
 
